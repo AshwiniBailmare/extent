@@ -1,0 +1,5 @@
+15:49:50.292 [main] INFO  Extent.SpecBuilder - Status code200
+15:49:50.493 [main] INFO  Extent.SpecBuilder - {"status":"OK","place_id":"b2d97dbbdd3707d39927c838efdd7a6e","scope":"APP","reference":"ed5d7a6940686b990dc6569aff4f01c4ed5d7a6940686b990dc6569aff4f01c4","id":"ed5d7a6940686b990dc6569aff4f01c4"}
+15:49:52.294 [main] INFO  Extent.SpecBuilder - Placeid:b2d97dbbdd3707d39927c838efdd7a6e
+15:49:59.983 [main] INFO  Extent.SpecBuilder - {"msg":"Address successfully updated"}
+15:50:07.214 [main] INFO  Extent.SpecBuilder - New address : nagpur,Maharshtra
